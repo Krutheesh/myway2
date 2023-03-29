@@ -1,0 +1,18 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  
+}
+button{
+display: block;
+}
+.ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+.d{
+  width: 50%;
+  margin: auto;
+}
